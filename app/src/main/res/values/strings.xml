@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Sistema_solar</string>
+    <string name="descripcion_universo">El universo es el conjunto de todo lo que existe: espacio, tiempo, materia y energía.</string>
+    <string name="descripcion_galaxia">Las galaxias son conjuntos masivos de estrellas, gas, polvo y materia oscura, unidos gravitacionalmente. La Vía Láctea, nuestra galaxia, es una espiral gigante con miles de millones de estrellas.</string>
+    <string name="descripcion_ss">El sistema solar es un sistema planetario que vincula, por efecto de la gravedad, a un conjunto de objetos astronómicos 1  que giran alrededor de una estrella central, el Sol. Está formado por ocho planetas, numerosos satélites, asteroides y cometas.</string>
+    <string name="descripcion_sol">El Sol es la estrella central del Sistema Solar, alrededor de la cual giran todos los planetas. Es una esfera de plasma caliente, cuya energía es esencial para la vida en la Tierra.</string>
+    <string name="descripcion_mercurio">Mercurio es el planeta más pequeño y el más cercano al Sol. No tiene atmósfera y su superficie está llena de cráteres debido a los impactos de meteoritos.</string>
+    <string name="descripcion_venus">Venus es el segundo planeta desde el Sol y es similar a la Tierra en tamaño. Tiene una atmósfera densa y caliente, compuesta principalmente de dióxido de carbono, lo que lo convierte en el planeta más caliente del Sistema Solar.</string>
+    <string name="descripcion_tierra">La Tierra es el tercer planeta desde el Sol y es el único conocido por albergar vida. Tiene una atmósfera rica en oxígeno y una superficie con océanos, continentes y una gran diversidad de ecosistemas.</string>
+    <string name="descripcion_luna">La Luna es el único satélite natural de la Tierra. Es el segundo objeto más brillante en el cielo nocturno después del Sol y tiene una superficie rocosa y llena de cráteres.</string>
+    <string name="descripcion_marte">Marte es el cuarto planeta desde el Sol y es conocido como el "Planeta Rojo" debido a su apariencia rojiza. Tiene una atmósfera delgada y evidencia de agua en el pasado, lo que sugiere la posibilidad de que haya existido vida en Marte.</string>
+    <string name="descripcion_jupiter">Júpiter es el quinto planeta desde el Sol y es el más grande del Sistema Solar. Es un gigante gaseoso con una Gran Mancha Roja, una tormenta gigante que ha estado activa durante siglos. Tiene numerosas lunas, incluyendo las cuatro lunas galileanas: Ío, Europa, Ganímedes y Calisto.</string>
+    <string name="descripcion_saturno">Saturno es el sexto planeta desde el Sol y es famoso por sus impresionantes anillos, compuestos principalmente de hielo y rocas. Es otro gigante gaseoso y tiene numerosas lunas, incluyendo Titán, la luna más grande de Saturno y la segunda más grande del Sistema Solar.</string>
+    <string name="descripcion_urano">Urano es el séptimo planeta desde el Sol y es un gigante de hielo. Tiene una atmósfera compuesta principalmente de hidrógeno y helio, y su característica más distintiva es su inclinación axial extrema, lo que significa que rota de lado.</string>
+    <string name="descripcion_neptuno">Neptuno es el octavo y más lejano planeta desde el Sol (desde que Plutón fue reclasificado como planeta enano). Es otro gigante de hielo con una atmósfera similar a Urano. Tiene vientos extremadamente fuertes y una Gran Mancha Oscura, una tormenta similar a la Gran Mancha Roja de Júpiter.</string>
+</resources>
+

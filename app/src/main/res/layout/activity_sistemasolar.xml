@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SistemaSolarActivity">
+
+    <ImageView
+        android:id="@+id/fondoSistemaSolar"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:contentDescription="@string/descripcion_ss"
+        android:scaleType="centerCrop"
+        android:src="@drawable/espacio2"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <ImageView
+        android:id="@+id/sol"
+        android:layout_width="196dp"
+        android:layout_height="172dp"
+        android:contentDescription="@string/descripcion_sol"
+        android:src="@drawable/circulo_sol"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.976" />
+
+    <ImageView
+        android:id="@+id/mercurio"
+        android:layout_width="43dp"
+        android:layout_height="38dp"
+        android:contentDescription="@string/descripcion_mercurio"
+        android:src="@drawable/circulo_mercurio"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.501"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.74" />
+
+    <ImageView
+        android:id="@+id/venus"
+        android:layout_width="45dp"
+        android:layout_height="45dp"
+        android:contentDescription="@string/descripcion_venus"
+        android:src="@drawable/circulo_venus"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.501"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.662" />
+
+    <ImageView
+        android:id="@+id/tierra"
+        android:layout_width="44dp"
+        android:layout_height="38dp"
+        android:contentDescription="@string/descripcion_tierra"
+        android:src="@drawable/circulo_tierra"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.584" />
+
+    <ImageView
+        android:id="@+id/luna"
+        android:layout_width="27dp"
+        android:layout_height="25dp"
+        android:contentDescription="@string/descripcion_luna"
+        android:src="@drawable/circulo_luna"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.679"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.574" />
+
+    <ImageView
+        android:id="@+id/marte"
+        android:layout_width="44dp"
+        android:layout_height="42dp"
+        android:contentDescription="@string/descripcion_marte"
+        android:src="@drawable/circulo_marte"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.516" />
+
+    <ImageView
+        android:id="@+id/jupiter"
+        android:layout_width="104dp"
+        android:layout_height="96dp"
+        android:contentDescription="@string/descripcion_jupiter"
+        android:src="@drawable/circulo_jupiter"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.403" />
+
+    <ImageView
+        android:id="@+id/saturno"
+        android:layout_width="133dp"
+        android:layout_height="134dp"
+        android:contentDescription="@string/descripcion_saturno"
+        android:src="@drawable/circulo_saturno"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.501"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.222" />
+
+    <ImageView
+        android:id="@+id/urano"
+        android:layout_width="52dp"
+        android:layout_height="60dp"
+        android:contentDescription="@string/descripcion_urano"
+        android:src="@drawable/circulo_urano"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.112" />
+
+    <ImageView
+        android:id="@+id/neptuno"
+        android:layout_width="49dp"
+        android:layout_height="48dp"
+        android:contentDescription="@string/descripcion_neptuno"
+        android:src="@drawable/circulo_neptuno"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.501"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.032" />
+
+    <TextView
+        android:id="@+id/notaUniverso"
+        android:layout_width="120dp"
+        android:layout_height="403dp"
+        android:layout_marginTop="68dp"
+        android:background="@drawable/rounded_background"
+        android:elevation="4dp"
+        android:fontFamily="serif"
+        android:gravity="center"
+        android:padding="12dp"
+        android:text="@string/descripcion_ss"
+        android:textColor="@android:color/white"
+        android:textSize="14sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.055"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/neptuno" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
